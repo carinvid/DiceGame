@@ -5,4 +5,4 @@ Simple Application to play games with my family.
 
 Using just JavaScript and HTML 
 
-You can play here https://carinvid.github.io/DiceGame/
+You can play here 
